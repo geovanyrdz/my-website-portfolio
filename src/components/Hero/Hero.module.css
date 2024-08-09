@@ -121,10 +121,14 @@
     align-items: center;
   }
   .contactBtn {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 
   .heroImg {
-    width: 60%;
+    width: 70%;
+  }
+
+  .title {
+    font-size: 3.2rem;
   }
 }
