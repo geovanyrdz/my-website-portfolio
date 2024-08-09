@@ -62,11 +62,11 @@
 
 .aboutItem h3 {
   font-size: 1.5rem;
-  font-weight: 600;
-}
+  font-weight: 400;
+}git
 
 .aboutItem p {
-  font-size: 1.3rem;
+  font-size: 1.25rem;
 }
 
 @media screen and (max-width: 830px) {
@@ -98,10 +98,10 @@
 
   .aboutItem h3 {
     font-size: 1.3rem;
-    font-weight: 600;
+    font-weight: 500;
   }
   
   .aboutItem p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
