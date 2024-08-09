@@ -1,0 +1,85 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 5em;
+  background-color: var(--color-secondary);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100vw;
+  padding: 58px 10%;
+  gap: 10px;
+}
+
+.text h2 {
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+.text p {
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 1.5em;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 400;
+  /* letter-spacing: 1.5px; */
+  text-align: center;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 2em;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links {
+    align-items: center;
+  }
+
+  .text h2 {
+    font-size: 3.5rem;
+  }
+
+  .text p {
+    font-size: 1.5rem;
+  }
+
+  .link a {
+    font-size: 1rem;
+
+  }
+
+  .link img {
+    width: 35px; /* Set a specific width for the image */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0;
+  }
+}

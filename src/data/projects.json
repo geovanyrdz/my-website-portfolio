@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Facebook Ads Analysis",
+    "imageSrc": "projects/Project-1.png",
+    "description": "The process includes extracting data from the Facebook Marketing API, cleaning the data with python in a Jupyter Notebook, exporting it to a PostgreSQL database, and creating a Power BI report that updates daily with the new data.",
+    "skills": ["Python", "PostreSQL", "Pandas", "Power Bi"],
+    "demo": "https://app.powerbi.com/links/5b7jx7IbjU?ctid=e263325c-d88f-48ba-9656-b318da27689a&pbi_source=linkShare&bookmarkGuid=85ce2879-cf74-40b7-9b29-78fa56f1417e",
+    "source": "https://github.com/geovanyrdz/Facebook-Ads-analysis.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

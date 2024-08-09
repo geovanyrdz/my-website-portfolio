@@ -1,0 +1,34 @@
+[
+  {
+    "title": "SQL",
+    "imageSrc": "skills/SQL.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Power Bi",
+    "imageSrc": "skills/power-bi.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  },
+  {
+    "title": "Numpy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Statistical Analysis",
+    "imageSrc": "skills/statistical-analysis.png"
+  },
+  {
+    "title": "Project Management",
+    "imageSrc": "skills/project-management.png"
+  }
+]

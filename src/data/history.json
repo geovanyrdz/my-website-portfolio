@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Co-Founder",
+    "organisation": "Acala Skin",
+    "startDate": "Jan, 2022",
+    "endDate": "Present",
+    "experiences": ["Optimization of marketing campaigns through data analysis and experimentation.", "Drove revenue growth of +$100,000 USD.", "Incresed Customer Lifetime Value by 20% throughout e-mail and sms marketing automations."],
+    "imageSrc": "history/acala-skin.jpg"
+  },
+  {
+    "role": "Co-Founder",
+    "organisation": "Foreverfull",
+    "startDate": "Aug, 2020",
+    "endDate": "Oct, 2022",
+    "experiences": ["Exponential growth of +450,000 USD in revenue in the first year.", "Reduced Customer Acquisition Cost by 50% throughout well structured campaign ads."],
+    "imageSrc": "history/foreverfull.jpg"
+  },
+  {
+    "role": "Project Launch Engineer",
+    "organisation": "General Motors",
+    "startDate": "Mar, 2018",
+    "endDate": "Jan, 2021",
+    "experiences": [
+      "Implemented data-driven strategies to ncrease production capacity from 96 to 108 jobs per hour across 20 assembly lines.",
+      "Applied statistical analysis to achieve an 80% reduction in changeover times."
+    ],
+    "imageSrc": "history/General_Motors.jpg"
+  }
+]
