@@ -70,6 +70,8 @@
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   border-radius: 50%;
+  filter: drop-shadow(0 0 .8em rgba(255, 255, 255, .8))
+          drop-shadow(0 0 .5em rgba(255, 255, 255, .6));
 }
 
 @keyframes floating {
@@ -121,7 +123,7 @@
     align-items: center;
   }
   .contactBtn {
-    font-size: 1.2em;
+    font-size: 1.15em;
   }
 
   .heroImg {
@@ -130,5 +132,9 @@
 
   .title {
     font-size: 3.2rem;
+  }
+
+  .buttonContainer {
+    gap: 1em; /* Espacio entre los botones (ajusta según sea necesario) */
   }
 }
