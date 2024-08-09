@@ -9,6 +9,7 @@
   z-index: 1;
   margin-left: 10%;
   margin-right: 10%;
+  gap: 2em;
 }
 
 .content {
@@ -136,5 +137,9 @@
 
   .buttonContainer {
     gap: 1em; /* Espacio entre los botones (ajusta según sea necesario) */
+  }
+
+  .description {
+    font-size: 1.6rem;
   }
 }
