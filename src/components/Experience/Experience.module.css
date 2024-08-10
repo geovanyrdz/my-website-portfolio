@@ -13,6 +13,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  margin-bottom: 1.8em;
 }
 
 .content {
@@ -113,6 +114,7 @@
 
   .title {
     margin-bottom: 2em;
+    font-size: 1.8rem;
   }
 
   .skills {
