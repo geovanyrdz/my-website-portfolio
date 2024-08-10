@@ -3,15 +3,15 @@
     "title": "Facebook Ads Analysis",
     "imageSrc": "projects/Project-1.png",
     "description": "Developed a comprehensive data pipeline to extract, clean, and analyze Facebook Ads data for an e-commerce brand using Python, Pandas, PostgreSQL and Power Bi.",
-    "skills": ["Python", "PostreSQL", "Pandas", "Power Bi"],
+    "skills": ["Python", "PostgreSQL", "Pandas", "Power Bi"],
     "demo": "https://app.powerbi.com/links/5b7jx7IbjU?ctid=e263325c-d88f-48ba-9656-b318da27689a&pbi_source=linkShare&bookmarkGuid=85ce2879-cf74-40b7-9b29-78fa56f1417e",
     "source": "https://github.com/geovanyrdz/Facebook-Ads-analysis.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Shopify Sales Analysis",
+    "imageSrc": "projects/shopify.png",
+    "description": "Data piepline to extract, clean, and do an Exploratory Data Aalysis (EDA) to uncover trends, patterns, and insights with Pandas, Matplotlib and Tableau.",
+    "skills": ["Python", "Pandas", "Matplotlib", "Tableau", "PostgreSQL"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },

@@ -12,6 +12,7 @@
 
 .image {
   margin-bottom: 26px;
+  border-radius: .5em;
 }
 
 .title {
@@ -33,7 +34,6 @@
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
-  justify-content: center;
 }
 
 .skill {
