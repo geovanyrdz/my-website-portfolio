@@ -9,18 +9,18 @@
   },
   {
     "title": "Shopify Sales Analysis",
-    "imageSrc": "projects/shopify.png",
-    "description": "Data piepline to extract, clean, and do an Exploratory Data Aalysis (EDA) to uncover trends, patterns, and insights with Pandas, Matplotlib and Tableau.",
+    "imageSrc": "projects/Tableau-dashabroard-sales.png",
+    "description": "Data piepline to extract, clean, and do an Exploratory Data Aalysis (EDA) to uncover trends, and insights with Pandas, Matplotlib and Tableau.",
     "skills": ["Python", "Pandas", "Matplotlib", "Tableau", "PostgreSQL"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://public.tableau.com/views/ShopifySalesAnalysisDashboard/SalesAnalysisDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    "source": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Netflix Movies Data Cleaning and Analysis using SQL",
+    "imageSrc": "projects/sql-data-cleaning-3.jpg",
+    "description": "ETL project to Extract, Load, and Transform a dataset about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
+    "skills": ["PostgreSQL", "Python", "Jupyter Notebooks"],
+    "demo": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main",
+    "source": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main"
   }
 ]
