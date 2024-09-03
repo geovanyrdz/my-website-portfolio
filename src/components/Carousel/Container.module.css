@@ -118,11 +118,11 @@ ion-icon {
   display: none;
 }
 
-.swiper-button-prev:after, .swiper-button-next:after {
+.swiper_button_prev:after, .swiper_button_next:after {
   color: white !important;
 }
 
-.swiper-pagination-bullet {
+.swiper_pagination_bullet {
   background: white !important;
   opacity: var(--swiper-pagination-bullet-inactive-opacity, 1) !important;
 }

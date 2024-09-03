@@ -51,10 +51,10 @@ const Container = () => {
         ))}
         
         <div className={styles.slider_controler}>
-          <div className="swiper-button-prev slider-arrow">
+          <div className={`${styles.swiper_button_prev} slider_arrow`}>
             <ion-icon name="arrow-back-outline"></ion-icon>
           </div>
-          <div className= "swiper-button-next slider-arrow">
+          <div className={`${styles.swiper_button_next} slider_arrow`}>
             <ion-icon name="arrow-forward-outline"></ion-icon>
           </div>
           <div className={styles.swiper_pagination}></div>
