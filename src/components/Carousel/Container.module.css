@@ -119,12 +119,12 @@ ion-icon {
 }
 
 .swiper-button-prev:after, .swiper-button-next:after {
-  color: white;
+  color: white !important;
 }
 
 .swiper-pagination-bullet {
-  background: white;
-  opacity: var(--swiper-pagination-bullet-inactive-opacity, 1);
+  background: white !important;
+  opacity: var(--swiper-pagination-bullet-inactive-opacity, 1) !important;
 }
 
 /* .swiper_pagination .swiper_pagination_bullet {
