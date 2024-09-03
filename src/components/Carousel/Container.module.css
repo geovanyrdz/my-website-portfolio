@@ -118,16 +118,6 @@ ion-icon {
   display: none;
 }
 
-.swiper-pagination-bullet {
-  width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 8px));
-  height: var(--swiper-pagination-bullet-height, var(--swiper-pagination-bullet-size, 8px));
-  display: inline-block;
-  border-radius: var(--swiper-pagination-bullet-border-radius, 50%);
-  background: var(--swiper-pagination-bullet-inactive-color, #ffffff) !important;
-  opacity: var(--swiper-pagination-bullet-inactive-opacity, 1) !important;
-}
-
-
 
 
 /* .swiper_pagination .swiper_pagination_bullet {

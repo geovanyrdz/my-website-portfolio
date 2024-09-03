@@ -11,10 +11,10 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
-import styles from './Container.module.css'; // Importa los estilos del módulo CSS
+
 import projects from "../../data/projects.json";
 import { ProjectCard } from "../Projects/ProjectCard"; 
-
+import styles from './Container.module.css'; // Importa los estilos del módulo CSS
 
 // Componente GallerySwiper
 const Container = () => {
@@ -51,15 +51,14 @@ const Container = () => {
         ))}
         
         <div className={styles.slider_controler}>
-          <div className="swiper-button-prev slider-arrow">
+          <div className="swiper-button-prev slider-arrow" style={{ color: 'white'}}>
             <ion-icon name="arrow-back-outline"></ion-icon>
           </div>
-          <div className="swiper-button-next slider-arrow">
+          <div className="swiper-button-next slider-arrow" style={{ color: 'white'}}>
             <ion-icon name="arrow-forward-outline"></ion-icon>
           </div>
           <div className={styles.swiper_pagination}></div>
         </div>
-        
       </Swiper>
     </div>
   );
