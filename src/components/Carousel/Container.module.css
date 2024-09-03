@@ -118,6 +118,10 @@ ion-icon {
   display: none;
 }
 
+.swiper_pagination span {
+  background-color: white;
+}
+
 
 
 /* .swiper_pagination .swiper_pagination_bullet {
