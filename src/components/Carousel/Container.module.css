@@ -1,0 +1,161 @@
+
+
+/* .container {
+  max-width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+} */
+
+
+.swiper_container {
+  width: 100%; /* Ajusta el porcentaje según sea necesario */
+  max-width: 1625px;
+  margin: 0 auto;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  margin-top: 3em;
+  
+}
+
+.mySwiper {
+  position: relative;
+ width: 100%;
+ height: auto;
+
+}
+
+.heading {
+  font-size: 3rem !important;
+}
+
+/* .swiper_wraper {
+  width: 100%;
+  height: 620px;
+  margin: 0 auto;
+} */
+
+/* .swiper_slide {
+  display: block;
+
+} */
+
+.swiper_slide {
+  width: 345px;
+  height: 620px;
+}
+
+
+/* @media (min-width: 1265px) {
+  .swiper_container {
+    width: 95%;
+
+  }
+} */
+
+
+
+
+.heading {
+  padding: 1rem 0;
+  font-size: 3.5rem;
+  text-align: center;
+  color: white;
+  margin-bottom: .5em;
+}
+
+/* @media (max-width: 500px) {
+  .mySwiper {
+    height: 400px;
+  }
+  .container{
+    width: 150px;
+    height: 310px;
+  }
+} */
+
+/* Forzar los estilos con !important */
+/* .swiper-pagination-bullet {
+  background-color: white !important;
+  width: 1em !important;
+  height: 1em !important;
+  opacity: 1 !important;
+
+} */
+
+.swiper_pagination {
+  position: relative;
+  text-align: center;
+}
+
+
+/* 
+.swiper-pagination-bullet {
+  background-color: white;
+  width: 1em;
+  height: 1em;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: blue;
+} */
+
+/* Control de los botones de navegación */
+.slider_controler {
+  width: 100%;
+  max-width: 350px;
+  position: relative;
+  height: 100px;
+  display: flex;
+  justify-content: space-between; /* Coloca los botones a los lados */
+  align-items: center; /* Centra verticalmente */
+  z-index: 10; /* Asegura que los controles estén por encima del contenido */
+  margin: 0 auto;
+}
+
+ion-icon {
+  display: none;
+}
+
+
+
+/* .swiper_pagination .swiper_pagination_bullet {
+  filter: drop-shadow(0px 4px 10px rgb(254, 254, 255));
+} */
+
+/* .swiper_pagination_bullet {
+  background: white !important;
+  opacity: 1;
+
+} */
+
+
+
+/* .slider_controler .swiper_button_next {
+  right: 0; 
+}
+
+.slider_controler .swiper_button_prev {
+  left: 0; 
+}
+
+
+.slider_controler .slider_arrow {
+  background: white;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  filter: drop-shadow(0px 8px 24px rgb(238, 241, 248));
+}
+
+.slider_controler .slider_arrow ion-icon {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.slider_controler .slider_arrow::after {
+  content: '';
+} */
+
+
