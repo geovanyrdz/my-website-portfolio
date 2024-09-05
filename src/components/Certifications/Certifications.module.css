@@ -157,3 +157,7 @@
 
 }
 
+.aboutItem img {
+  width: 75px;
+  border-radius: 6px;
+}

@@ -83,7 +83,7 @@ export const Certifications = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/PMI.jpg")} alt="UI icon" />
+            <img src={getImageUrl("about/PMI.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>Certified Associate in Project Management CAPM - Project Management Institute </h3>
               <p>
