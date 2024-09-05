@@ -8,14 +8,14 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>Education</h2>
       <div className={styles.content}>
-        <img
+        {/* <img
           src={getImageUrl("about/aboutImage.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
-        />
+        /> */}
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/education.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/UTTEXAS.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>M.Sc. Data Science - The University of Texas at Austin- August 24</h3>
               <p>
@@ -24,9 +24,9 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/education.png")} alt="Server icon" />
+            <img src={getImageUrl("about/ITESM.jpg")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>B.S Industrial Engineering - Tecnológico de Monterrey - 2018</h3>
+              <h3>B.S Industrial and Systems Engineering - Tecnológico de Monterrey - 2018</h3>
               <p>
                 Exchange program in Business Administration at Montreal, Canada.
               </p>

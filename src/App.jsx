@@ -6,6 +6,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import Container from "./components/Carousel/Container";
+import { Certifications } from "./components/Certifications/Certifications";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Experience />
       {/* <Projects /> */}
       <Container />
+      <Certifications />
       <Contact />
     </div>
   );
