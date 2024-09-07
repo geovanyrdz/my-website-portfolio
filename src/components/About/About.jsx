@@ -17,16 +17,16 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/UTTEXAS2.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>M.Sc. Data Science - The University of Texas at Austin- August 24</h3>
+              <h3>M.S. In Data Science - The University of Texas at Austin - Ongoing</h3>
               <p>
-                Currently studying the Master of Science in Data Science in a top 10 U.S. University.
+                Computer Science Top-Ranked U.S. University.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/ITESM2.jpg")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>B.S Industrial and Systems Engineering - Tecnológico de Monterrey - 2018</h3>
+              <h3>B.S. Industrial and Systems Engineering - Tecnológico de Monterrey - 2018</h3>
               <p>
                 Exchange program in Business Administration at Montreal, Canada.
               </p>

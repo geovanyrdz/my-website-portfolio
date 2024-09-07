@@ -2,7 +2,7 @@
   {
     "title": "Facebook Ads Analysis",
     "imageSrc": "projects/Project-1.png",
-    "description": "Developed a comprehensive data pipeline to extract, clean, and analyze Facebook Ads data for an e-commerce brand using Python, Pandas, PostgreSQL and Power Bi.",
+    "description": "Data pipeline to extract, clean, and analyze Facebook Ads data for an e-commerce brand using Python, Pandas, PostgreSQL and Power Bi.",
     "skills": ["Python", "PostgreSQL", "Pandas", "Power Bi"],
     "demo": "https://app.powerbi.com/view?r=eyJrIjoiZDhkNGYwNWMtMWQyOS00NzIwLWI2ZTgtOTFkMjYzNjhmYjk1IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9",
     "source": "https://github.com/geovanyrdz/Facebook-Ads-analysis.git"
@@ -18,7 +18,7 @@
   {
     "title": "Netflix Movies Data Cleaning and Analysis using SQL",
     "imageSrc": "projects/sql-data-cleaning-3.jpg",
-    "description": "ETL project to Extract, Load, and Transform a dataset about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
+    "description": "Extract, Load, and Transform a dataset in Python about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
     "skills": ["PostgreSQL", "Python", "Jupyter Notebooks"],
     "demo": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main",
     "source": "https://github.com/geovanyrdz/Netflix-Movies-Data-Cleaning-and-Analysis-using-SQL"
@@ -26,7 +26,7 @@
   {
     "title": "Facebook Ads Analysis",
     "imageSrc": "projects/Project-1.png",
-    "description": "Developed a comprehensive data pipeline to extract, clean, and analyze Facebook Ads data for an e-commerce brand using Python, Pandas, PostgreSQL and Power Bi.",
+    "description": "Data pipeline to extract, clean, and analyze Facebook Ads data for an e-commerce brand using Python, Pandas, PostgreSQL and Power Bi.",
     "skills": ["Python", "PostgreSQL", "Pandas", "Power Bi"],
     "demo": "https://app.powerbi.com/view?r=eyJrIjoiZDhkNGYwNWMtMWQyOS00NzIwLWI2ZTgtOTFkMjYzNjhmYjk1IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9",
     "source": "https://github.com/geovanyrdz/Facebook-Ads-analysis.git"
@@ -42,7 +42,7 @@
   {
     "title": "Netflix Movies Data Cleaning and Analysis using SQL",
     "imageSrc": "projects/sql-data-cleaning-3.jpg",
-    "description": "ETL project to Extract, Load, and Transform a dataset about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
+    "description": "Extract, Load, and Transform a dataset in Python about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
     "skills": ["PostgreSQL", "Python", "Jupyter Notebooks"],
     "demo": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main",
     "source": "https://github.com/geovanyrdz/Netflix-Movies-Data-Cleaning-and-Analysis-using-SQL"
