@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>M.S. In Data Science - The University of Texas at Austin - Ongoing</h3>
               <p>
-                Computer Science Top-Ranked U.S. University.
+              <a href="https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings?_sort=rank-asc" target="_blank" className={styles.customLink}>Computer Science Top-Ranked U.S. University.</a>
               </p>
             </div>
           </li>
