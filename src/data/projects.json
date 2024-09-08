@@ -20,7 +20,7 @@
     "imageSrc": "projects/sql-data-cleaning-3.jpg",
     "description": "Extract, Load, and Transform a dataset in Python about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
     "skills": ["PostgreSQL", "Python", "Jupyter Notebooks"],
-    "demo": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main",
+    "demo": "https://github.com/geovanyrdz/Netflix-Movies-Data-Cleaning-and-Analysis-using-SQL",
     "source": "https://github.com/geovanyrdz/Netflix-Movies-Data-Cleaning-and-Analysis-using-SQL"
   },
   {
@@ -44,7 +44,7 @@
     "imageSrc": "projects/sql-data-cleaning-3.jpg",
     "description": "Extract, Load, and Transform a dataset in Python about Netflix Movies and shows, for later clean it and analyze it in PostgreSQL.",
     "skills": ["PostgreSQL", "Python", "Jupyter Notebooks"],
-    "demo": "https://github.com/geovanyrdz/Shopify-Sales-AnalysisShopify-Sales-Analysis/tree/main",
+    "demo": "https://github.com/geovanyrdz/Netflix-Movies-Data-Cleaning-and-Analysis-using-SQL",
     "source": "https://github.com/geovanyrdz/Netflix-Movies-Data-Cleaning-and-Analysis-using-SQL"
   }
 ]
