@@ -4,7 +4,7 @@
     "organisation": "Acala Skin",
     "startDate": "Jan, 2022",
     "endDate": "Present",
-    "experiences": ["Optimization of marketing campaigns through data analysis and experimentation.", "Drove revenue growth of +$100,000 USD.", "Incresed Customer Lifetime Value by 20% throughout E-mail and SMS marketing automations."],
+    "experiences": ["Analyzed customer behavior to drive $100,000 USD in revenue growth.", "Cut Customer Acquisition Cost by 50% with A/B testing and data-driven ad optimization.", "Incresed Customer Lifetime Value by 20% throughout E-mail and SMS marketing automations."],
     "imageSrc": "history/acala-skin.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "organisation": "Foreverfull",
     "startDate": "Aug, 2020",
     "endDate": "Oct, 2022",
-    "experiences": ["Exponential growth of +450,000 USD in revenue in the first year of operations.", "Reduced Customer Acquisition Cost by 50% throughout well structured campaign Ads."],
+    "experiences": ["Leveraged data insights to drive $450,000 USD in total revenue", "Developed demand forecasting models, reducing product prices by 10% and improving monthly cash flow."],
     "imageSrc": "history/foreverfull.jpg"
   },
   {
@@ -21,8 +21,9 @@
     "startDate": "Mar, 2018",
     "endDate": "Jan, 2021",
     "experiences": [
-      "Implemented data-driven strategies to ncrease production capacity from 96 to 108 jobs per hour across 20 assembly lines.",
-      "Applied statistical analysis to achieve an 80% reduction in changeover times."
+      "Increased production capacity by 12.5% across 20 assembly lines using Lean Six Sigma methodologies.",
+      "Identified bottlenecks via regression analysis, improving cycle times and material flow efficiency.",
+      "Reduced changeover times by 80% on 24 production lines through time-study analysis and SMED techniques."
     ],
     "imageSrc": "history/General_Motors.jpg"
   }

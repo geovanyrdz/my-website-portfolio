@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Geovany</h1>
         <p className={styles.description}>
-        Result-driven professional with a strong focus on Data Science, Data Analysis, Online Marketing, and Business Development.
+        Result-driven professional with a strong focus on Data Science, Business Analytics and Online Marketing.
         </p>
         <div className={styles.buttonContainer}>
           <a href="mailto:gio_rdz.27@hotmail.com" className={styles.contactBtn}>
